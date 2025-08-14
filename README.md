@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Computer Science student with a passion for building intelligent systems at the intersection of technology and finance. My focus is on leveraging data science, machine learning, and robust software engineering to solve complex, data-driven problems. I am actively seeking opportunities where I can contribute to impactful projects and continue to grow my skills in a challenging environment.
+
 <!--
 **Exentrik0/Exentrik0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
